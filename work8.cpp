@@ -110,9 +110,6 @@ bool binary_search(std::vector<int> iterator, int element)
 
 int main()
 {
-    std::vector<int> a = {1,2,3,4,5,6,7,8,9,10,11};
-    binary_search(a, 2);
-
     return 0;
 }
 

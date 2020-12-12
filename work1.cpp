@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <string>
 
-int directory = chdir("D:\\Stuff\\C++");
+int directory = chdir("Path to directory to create or read log");
 
 void create_log(int element)
 {

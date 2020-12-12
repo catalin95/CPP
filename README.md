@@ -1,2 +1,2 @@
-# CPP
+# C++
 Self taught

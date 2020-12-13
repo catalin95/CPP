@@ -1,4 +1,4 @@
-// Simple C++ program to get the binary of a number
+// Simple C++ function to get the binary of a number
 
 #include <iostream>
 

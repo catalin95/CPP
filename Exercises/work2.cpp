@@ -1,7 +1,6 @@
 // Simple C++ program, for any given number and given power will output a new number composed of the given number digits raised to the given power
 
 #include <iostream>
-#include <vector>
 #include <string>
 
 std::string power(int x, int y)

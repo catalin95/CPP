@@ -142,13 +142,4 @@ class Positional
 
 };  
 
-int main()
-{
-
-    Positional a;
-
-    std::cout << a.hexadecimal_rep(254) << "\n";
-    
-    return 0;
-}
 

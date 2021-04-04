@@ -43,4 +43,5 @@ class Math
 
             return number;
         }
+
 };

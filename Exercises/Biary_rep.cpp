@@ -22,8 +22,4 @@ int binary(int x)
     return std::stoi(output_string);
 }
 
-int main()
-{
-    return 0;
-}
 
